@@ -1,5 +1,8 @@
 # Event Scheduler Bot
 
+![event-scheduler-bot Jenderal92](https://github.com/user-attachments/assets/196a5e7f-fcbc-4569-9bed-525a070fee42)
+
+
 **Event Scheduler Bot** is a Python-based tool that automates Google Calendar tasks. With this bot, you can create, list, and delete events directly from your terminal. It uses the Google Calendar API to interact with your calendar.
 
 ---
